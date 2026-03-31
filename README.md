@@ -20,6 +20,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ![STEPS](Desktop/Steps.png)
 
+<img src="Desktop/Steps.png" width="600" />
 
 ## 🔍 Key Insights
 - Customers using discounts still spend more
