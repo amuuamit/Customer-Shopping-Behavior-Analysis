@@ -1,23 +1,5 @@
 # Customer-Shopping-Behavior-Analysis
 
-Customer-Shopping-Analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── Customer_Shopping_Behaviour_Analysis.ipynb
-│
-├── sql/
-│   └── customer_behavior_sql_queries.sql
-│
-├── dashboard/
-│   └── customer_shopping_analysis.pbix
-│
-├── presentation/
-│   └── Customer-Shopping-Behavior-Analysis.pptx
-│
-└── README.md
 
 # Customer Shopping Behavior Analysis
 
